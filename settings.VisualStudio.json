@@ -1,0 +1,5 @@
+/* Visual Studio Settings File */
+{
+  "languages.xml.general.showCompletionOnTyping.autoListMembers": false,
+  "languages.xml.general.showCompletionOnTyping.parameterInfo": true
+}
